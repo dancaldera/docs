@@ -36,9 +36,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Homepage",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://www.holacasa.mx/"
     },
     {
       "name": "Community",
